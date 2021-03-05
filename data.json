@@ -1,0 +1,200 @@
+{
+    "version":2.1,
+    
+    "locales": [
+        {"locale":"en_US","description":"United States English", "friendly_name":"English (US)"},
+        {"locale":"es_ES","description":"Universal Spanish", "friendly_name":"Spanish"},
+        {"locale":"fr_CA","description":"Canadian French", "friendly_name":"French (CA)"},
+        {"locale":"de_DE","description":"Universal German", "friendly_name":"German"},
+        {"locale":"pt_BR","description":"Portuguese, with Brazilian regionalization", "friendly_name":"Portuguese"},
+        {"locale":"en_GB","description":"English, UK / GB regionalization", "friendly_name":"English (UK)"}
+      ],
+      
+      "colors": [
+        {"id":"p-gray","category":"primary","name":"gray", "hex": "767574"},
+        {"id":"p-dark gray","category":"primary","name":"dark gray", "hex": "363636"},
+        {"id":"p-blue","category":"primary","name":"blue", "hex": "00A5E5"},
+        {"id":"p-purple","category":"primary","name":"purple", "hex": "662D91"},
+        {"id":"s-blue","category":"secondary","name":"blue", "hex": "0061AF"},
+        {"id":"s-orange","category":"secondary","name":"orange", "hex": "FF9000"},
+        {"id":"s-red","category":"secondary","name":"red", "hex": "ED1847"},
+        {"id":"s-green","category":"secondary","name":"green", "hex": "8DC63F"},
+        {"id":"t-white","category":"tertiary","name":"white", "hex": "FFFFFF"},
+        {"id":"t-black","category":"tertiary","name":"black", "hex": "000000"},
+        {"id":"t-gray","category":"tertiary","name":"gray", "hex": "D1D3D4"},
+        {"id":"t-teal","category":"tertiary","name":"teal", "hex": "2DCCD3"}
+      ],
+      
+  "watermark" : {
+        "en_US": {
+            "text": "Tips & Tricks",
+            "orientation":"pre"
+        },
+        "es_ES": {
+            "text": "Tips y Trucos de",
+            "orientation":"post"
+        },
+        "fr_CA": {
+            "text": "Conseils et astuces",
+            "orientation":"pre"
+        },
+        "de_DE": {
+            "text": "Tipps und Tricks",
+            "orientation":"pre"
+        },
+        "pt_BR": {
+            "text": "Dicas e Truques da",
+            "orientation":"post"
+        },
+        "en_GB": {
+            "text": "Tips & Tricks",
+            "orientation":"pre"
+        }
+    } ,
+    
+    "legal" :{
+        "en_US":{
+            "boilerplate":"© 2021 Roku, Inc. All rights reserved. Roku, the Roku logo, and Happy Streaming are the trademarks or registered trademarks of Roku, Inc. ",
+            "hdmi":"The terms HDMI and HDMI High-Definition Multimedia Interface, and the HDMI Logo are trademarks or registered trademarks of HDMI Licensing Administrator, Inc. in the United States and other countries.",
+            "dolby":"Dolby, Dolby Vision, Dolby Atmos, and the double-D symbol are registered trademarks of Dolby Laboratories Licensing Corporation. Manufactured under license from Dolby Laboratories",
+            "airplay":"Apple AirPlay is a trademark of Apple, Inc., registered in the U.S. and other countries. Apple AirPlay is compatible with select 4K Roku devices. Visit support.roku.com for more info.",
+            "other":"All other logos and trademarks herein not owned by Roku, Inc. are the property of their respective owners."
+        },
+        "es_ES":{
+            "boilerplate":"© 2021 Roku, Inc. Todos los derechos reservados. Roku, el logotipo de Roku, y Happy Streaming son marcas comerciales o marcas comerciales registradas de Roku, Inc. ",
+            "hdmi":"Los términos HDMI, HDMI High-Definition Multimedia Interface y el logotipo de HDMI son marcas comerciales o marcas comerciales registradas de HDMI Licensing Administrator, Inc. en los Estados Unidos y otros países.",
+            "dolby":"",
+            "airplay":"Apple AirPlay es una marca comercial de Apple, Inc., registrada en los Estados Unidos y en otros países. Apple AirPlay es compatible con algunos dispositivos Roku 4K. Visita support.roku.com para obtener más información.",
+            "other":"Todos los demás logotipos y marcas registradas nombradas en este documento que no son propiedad de Roku, Inc. son propiedad de sus respectivos dueños."
+        },
+        "fr_CA":{
+            "boilerplate":"© 2021 Roku, Inc. Tous droits réservés. Roku, le logo Roku, et Happy Streaming sont des marques de commerce ou des marques déposées de Roku, Inc. ",
+            "hdmi":"Les termes HDMI et HDMI High-Definition Multimedia Interface (interface multimédia haute définition) et le logo HDMI sont des marques de commerce ou des marques déposées de HDMI Licensing Administrator, Inc. aux États-Unis et dans d’autres pays.",
+            "dolby":"",
+            "airplay":"Apple AirPlay est une marque de commerce d’Apple inc., déposée aux États-Unis et dans d’autres pays. Apple AirPlay est compatible avec certains appareils Roku 4K. Visitez le site support.roku.com/fr-ca/ pour de plus amples renseignements.",
+            "other":"Tous les autres logos et marques de commerce mentionnés aux présentes et n’appartenant pas à Roku, Inc. demeurent la propriété de leurs détenteurs respectifs."
+        },
+        "de_DE":{
+            "boilerplate":"© 2021 Roku, Inc. Alle Rechte vorbehalten. Roku, das Roku Logo, und Happy Streaming sind Marken oder eingetragene Marken von Roku, Inc. ",
+            "hdmi":"Die Begriffe HDMI und HDMI High-Definition Multimedia Interface, sowie das HDMI Logo, sind Marken oder eingetragene Marken von HDMI Licensing Administrator, Inc. in den USA und anderen Ländern",
+            "dolby":"",
+            "airplay":"",
+            "other":"Alle anderen hierin enthaltenen Logos und Marken, die nicht Roku, Inc. gehören, sind Eigentum ihrer jeweiligen Inhaber."
+        },
+        "pt_BR":{
+            "boilerplate":"© 2021 Roku, Inc. Todos os direitos reservados. Roku, o logotipo do Roku, e Happy Streaming são marcas comerciais ou marcas registradas da Roku, Inc. ",
+            "hdmi":"Os termos HDMI e HDMI High-Definition Multimedia Interface (interface multimídia de alta definição HDMI) e o logotipo HDMI são marcas comerciais ou marcas registradas da HDMI Licensing Administrator, Inc. nos Estados Unidos e em outros países.",
+            "dolby":"",
+            "airplay":"Apple AirPlay e HomeKit uma marca comercial da Apple Inc., registrada nos EUA e em outros países. Apple AirPlay e HomeKit são compatíveis com alguns dispositivos Roku 4K. Visite support.roku.com para obter mais informações.",
+            "other":"Todos os outros logotipos e marcas registradas presentes neste documento não pertencem à Roku, Inc., sendo de propriedade de seus respectivos donos."
+        },
+        "en_GB":{
+            "boilerplate":"© 2021 Roku, Inc. All rights reserved. Roku, the Roku logo, and Happy Streaming are the trademarks or registered trademarks of Roku, Inc. ",
+            "hdmi":"The terms HDMI and HDMI High-Definition Multimedia Interface, and the HDMI Logo are trademarks or registered trademarks of HDMI Licensing Administrator, Inc. in the United States and other countries.",
+            "dolby":"Dolby, Dolby Vision, Dolby Atmos, and the double-D symbol are registered trademarks of Dolby Laboratories Licensing Corporation. Manufactured under license from Dolby Laboratories",
+            "airplay":"Apple AirPlay is a trademark of Apple, Inc., registered in the U.S. and other countries. Apple AirPlay is compatible with select 4K Roku devices. Visit support.roku.com for more info.",
+            "other":"All other logos and trademarks herein not owned by Roku, Inc. are the property of their respective owners."
+        }
+    },
+
+    "disclaimers" :{
+        "en_US":{
+            "home screen channel ui":"Some channels require payment, can change, and vary by country.",
+            "trc channel ui":"Content availability may vary.",
+            "epg channel ui":"Available live TV channels may vary.",
+            "remotes and buttons":"Remote has pre-set channel buttons with channel logos.",
+            "tv and remote":"TV controls work with most TVs.",
+            "4k, hdr, hd":"4k and HDR require compatible content, TV and channels, subject to channel provider bandwidth requirements. Channels may change, require payment, and vary by region.",
+            "dolby vision with tv":"4k/HDR/Dolby Vision require compatible content and TV.",
+            "america's #1 tv streaming platform":"Kantar, November 2020 – Based on hours streamed.",
+            "portability":"For portability, bring your remote, power cable, and smartphone.",
+            "voice search":"Voice support on compatible Roku remotes and the Roku mobile app.",
+            "voice assistant":"Compatibility subject to change.",
+            "dolby":"Dolby, Dolby Vision, Dolby Atmos, and the double-D symbol are registered trademarks of Dolby Laboratories Licensing Corporation. Manufactured under license from Dolby Laboratories",
+            "apple airplay":"Apple AirPlay is a trademark of Apple, Inc., registered in the US and other countries. Apple AirPlay is compatible with select 4K Roku devices. Visit support.roku.com for more info.",
+            "content search ui":"Titles can change, vary by country, and may require payment."
+
+        },
+        "es_ES":{
+            "home screen channel ui":"Algunos canales son de pago y pueden cambiar y variar según el país.",
+            "trc channel ui":"NO CONTENT OR TRANSLATION",
+            "epg channel ui":"NO CONTENT OR TRANSLATION",
+            "remotes and buttons":"El control remoto tiene botones de canales preestablecidos con los logotipos de los canales.",
+            "tv and remote":"Los controles de TV funcionan con la mayoría de los televisores.",
+            "4k, hdr, hd":"4K y HDR requieren un televisor, canales y contenidos compatibles, conforme a los requisitos de ancho de banda del proveedor de canales. Los canales pueden ser de pago, cambiar y variar según la región.",
+            "dolby vision with tv":"NO CONTENT OR TRANSLATION",
+            "america's #1 tv streaming platform":"NO CONTENT OR TRANSLATION",
+            "portability":"Para la portabilidad, traiga su control remoto, su cable de alimentación y su teléfono inteligente.",
+            "voice search":"NO CONTENT OR TRANSLATION",
+            "voice assistant":"NO CONTENT OR TRANSLATION",
+            "dolby":"NO CONTENT OR TRANSLATION",
+            "apple airplay":"Apple AirPlay es una marca comercial de Apple, Inc., registrada en los Estados Unidos y en otros países. Apple AirPlay es compatible con algunos dispositivos Roku 4K. Visita support.roku.com para obtener más información.",
+            "content search ui":"El contenido puede variar dependiendo del país y pueden requerir de un pago"
+        },
+        "fr_CA":{
+            "home screen channel ui":"Diffusez les chaînes les plus regardées.",
+            "trc channel ui":"NO CONTENT OR TRANSLATION",
+            "epg channel ui":"NO CONTENT OR TRANSLATION",
+            "remotes and buttons":"La télécommande a des touches préprogrammées affichant les logos de différentes chaînes.",
+            "tv and remote":"Les commandes fonctionnent avec la plupart des téléviseurs.",
+            "4k, hdr, hd":"La 4K/HDR nécessite un contenu et un téléviseur compatibles.",
+            "dolby vision with tv":"NO CONTENT OR TRANSLATION",
+            "america's #1 tv streaming platform":"NO CONTENT OR TRANSLATION",
+            "portability":"Pour la portabilité, apportez votre télécommande, votre câble d’alimentation et votre téléphone intelligent.",
+            "voice search":"NO CONTENT OR TRANSLATION",
+            "voice assistant":"L’assistance vocale est actuellement offerte en anglais seulement.",
+            "dolby":"NO CONTENT OR TRANSLATION",
+            "apple airplay":"Apple AirPlay est une marque de commerce d’Apple inc., déposée aux États-Unis et dans d’autres pays. Apple AirPlay est compatible avec certains appareils Roku 4K. Visitez le site support.roku.com/fr-ca/ pour de plus amples renseignements.",
+            "content search ui":"Les titres peuvent changer et varier selon les pays, et certaines titres peuvent nécessiter un paiement."
+        },
+        "de_DE":{
+            "home screen channel ui":"Channels können kostenpflichtig sein, sich ändern oder je nach Land variieren.",
+            "trc channel ui":"NO CONTENT OR TRANSLATION",
+            "epg channel ui":"NO CONTENT OR TRANSLATION",
+            "remotes and buttons":"Die Fernbedienung verfügt über Kurzbefehltasten mit vorprogrammierten Channels und jeweiligen Logos.",
+            "tv and remote":"NO CONTENT OR TRANSLATION",
+            "4k, hdr, hd":"4K/HDR erfordert kompatible Inhalte und Fernsehgeräte.",
+            "dolby vision with tv":"NO CONTENT OR TRANSLATION",
+            "america's #1 tv streaming platform":"NO CONTENT OR TRANSLATION",
+            "portability":"NO CONTENT OR TRANSLATION",
+            "voice search":"NO CONTENT OR TRANSLATION",
+            "voice assistant":"NO CONTENT OR TRANSLATION",
+            "dolby":"NO CONTENT OR TRANSLATION",
+            "apple airplay":"NO CONTENT OR TRANSLATION",
+            "content search ui":"NO CONTENT OR TRANSLATION"
+        },
+        "pt_BR":{
+            "home screen channel ui":"Algunos canales son de pago y pueden cambiar y variar según el país.",
+            "trc channel ui":"NO CONTENT OR TRANSLATION",
+            "epg channel ui":"NO CONTENT OR TRANSLATION",
+            "remotes and buttons":"O controle remoto apresenta botões de canais pré-configurados com os logotipos dos canais.",
+            "tv and remote":"NO CONTENT OR TRANSLATION",
+            "4k, hdr, hd":"NO CONTENT OR TRANSLATION",
+            "dolby vision with tv":"NO CONTENT OR TRANSLATION",
+            "america's #1 tv streaming platform":"NO CONTENT OR TRANSLATION",
+            "portability":"NO CONTENT OR TRANSLATION",
+            "voice search":"NO CONTENT OR TRANSLATION",
+            "voice assistant":"NO CONTENT OR TRANSLATION",
+            "dolby":"NO CONTENT OR TRANSLATION",
+            "apple airplay":"Apple AirPlay e HomeKit uma marca comercial da Apple Inc., registrada nos EUA e em outros países. Apple AirPlay e HomeKit são compatíveis com alguns dispositivos Roku 4K. Visite support.roku.com para obter mais informações.",
+            "content search ui":"Os títulos podem mudar, variar de acordo com o país, e podem requerer pagamento"
+        },
+        "en_GB":{
+            "home screen channel ui":"Some channels require payment, can change, and vary by country.",
+            "trc channel ui":"Content availability may vary.",
+            "epg channel ui":"Available live TV channels may vary.",
+            "remotes and buttons":"Remote has pre-set channel buttons with channel logos.",
+            "tv and remote":"TV controls work with most TVs.",
+            "4k, hdr, hd":"4k and HDR require compatible content, TV and channels, subject to channel provider bandwidth requirements. Channels may change, require payment, and vary by region.",
+            "dolby vision with tv":"4k/HDR/Dolby Vision require compatible content and TV.",
+            "america's #1 tv streaming platform":"",
+            "portability":"For portability, bring your remote, power cable, and smartphone.",
+            "voice search":"Voice support on compatible Roku remotes and the Roku mobile app.",
+            "voice assistant":"Compatibility subject to change.",
+            "dolby":"Dolby, Dolby Vision, Dolby Atmos, and the double-D symbol are registered trademarks of Dolby Laboratories Licensing Corporation. Manufactured under license from Dolby Laboratories",
+            "apple airplay":"Apple AirPlay is a trademark of Apple, Inc., registered in the U.S. and other countries. Apple AirPlay is compatible with select 4K Roku devices. Visit support.roku.com for more info.",
+            "content search ui":"Titles can change, vary by country, and may require payment."
+        }
+    }
+  
+}

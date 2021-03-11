@@ -1,5 +1,5 @@
 {
-    "version":2.1,
+    "version":2.2,
     
     "locales": [
         {"locale":"en_US","description":"United States English", "friendly_name":"English (US)"},
@@ -194,6 +194,92 @@
             "dolby":"Dolby, Dolby Vision, Dolby Atmos, and the double-D symbol are registered trademarks of Dolby Laboratories Licensing Corporation. Manufactured under license from Dolby Laboratories",
             "apple airplay":"Apple AirPlay is a trademark of Apple, Inc., registered in the U.S. and other countries. Apple AirPlay is compatible with select 4K Roku devices. Visit support.roku.com for more info.",
             "content search ui":"Titles can change, vary by country, and may require payment."
+        }
+    },
+
+
+
+    "uitoolkit" :{
+        "overhang":{
+            "en_US":{
+                "options":"Options",
+                "home":"Home"
+            },
+            "es_ES":{
+                "options":"Opciones",
+                "home":"Inicio"
+            },
+            "fr_CA":{
+                "options":"Options",
+                "home":"Accuiel"
+            },
+            "de_DE":{
+                "options":"Optionen",
+                "home":"Startseite"
+            },
+            "pt_BR":{
+                "options":"Opções",
+                "home":"Página inicial"
+            },
+            "en_GB":{
+                "options":"Options",
+                "home":"Home"
+            }
+        },
+
+
+        "menus":{
+            "en_US":{
+                "home":"Home\rFeatured Free\rMy Feed\rSearch\rStreaming Channels\rSettings",
+                "settings":"Network\rRemotes & devices\rTheme\rDisplay type\rAccessibility\rAudio\rHome screen\rSubscriptions\rPayment method\rApple AirPlay and Homekit\rLegal notices\rPrivacy\rSystem",
+                "network":"About\rCheck connection\rSet up connection\rBandwidth saver"
+            },
+            "es_ES":{
+                "home":"Inicio\rFunción gratuita\rMi actividad\rBuscar\rCanales de streaming\rConfiguración",
+                "settings":"Red\rControles remoteos y dispositivos\rTema\rTipo de pantalla\rAccesibilidad\rAudio\rPantalla principal\rSuscripciones\rMétodo de pago\rApple AirPlay y HomeKit\rAvisos legales\rPrivacidad\rAyuda",
+                "network":"Acerca de\rCompruebe la conexión\rConfigure la conexión\rAhorro de ancho de banda"
+            },
+            "fr_CA":{
+                "home":"Accueil\rContenus gratuits en vede...\rMon flux\rRechercher\rChaînes de diffusion en co...\rParamètres",
+                "settings":"Résau\rTélécommandes et appareils\rThème\rType d'affichage\rAccessibilité\rAudio\rÉcran d'accueil\rAbonnements\rMode de paiement\rApple AirPlay et Homekit\rAvis juridiques\rConfidentialité\rAide",
+                "network":"À propos\rCVérification de la connexion\rConfigurer la connexion\rGain de bande passante"
+            },
+            "de_DE":{
+                "home":"Startseite\rKostenlos empfohlen\rMein Feed\rSuche\rStreaming-Sender\rEinstellungen",
+                "settings":"Netzwerk\rFernbedienungen und Geräte\rDesign\rBildschirmtyp\rZugänglichkeit\rAudio\rStartseite\rAbonnements\rZahlungsmethode\rApple AirPlay & Homekit\rRechtliche\rDatenschutz\rHilfe",
+                "network":"Info\rVerbindung prüfen\rVerbindung einrichten\rBandbreitensparer"
+            },
+            "pt_BR":{
+                "home":"Página inicial\rConteúdo gratuito em des...\rMeu feed\rPesquisar\rCanais de streaming\rConfigurações",
+                "settings":"Rede\rControles remotos e dispositivos\rTema\rTipo de tela\rAcessibilidade\rÁudio\rTele inicial\rAssinaturas\rForma de pagamento\rApple AirPlay e Homekit\rLAvisos legais\rPrivacidade\rAjuda",
+                "network":"Detalhes\rVerificar conexão\rConfigurar conexão\rEconomizar largura de banda"
+            },
+            "en_GB":{
+                "home":"Home\rFeatured Free\rMy Feed\rSearch\rStreaming Channels\rSettings\r\rHome\rFeatured Free\rMy Feed\rSearch\rStreaming Channels\rSettings",
+                "settings":"Network\rRemotes & devices\rTheme\rDisplay type\rAccessibility\rAudio\rHome screen\rSubscriptions\rPayment method\rApple AirPlay and Homekit\rLegal notices\rPrivacy\rSystem",
+                "network":"About\rCheck connection\rSet up connection\rBandwidth saver"
+            }
+        },
+
+        "channel_grid":{
+            "en_US":{
+                "items":"Items"
+            },
+            "es_ES":{
+                "items":"Elementos"
+            },
+            "fr_CA":{
+                "items":"Éléments"
+            },
+            "de_DE":{
+                "items":"Elementen"
+            },
+            "pt_BR":{
+                "items":"itens"
+            },
+            "en_GB":{
+                "items":"Items"
+            }
         }
     }
   

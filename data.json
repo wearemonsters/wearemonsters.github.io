@@ -55,6 +55,7 @@
     "legal" :{
         "en_US":{
             "boilerplate":"© 2021 Roku, Inc. All rights reserved. Roku, the Roku logo, and Happy Streaming are the trademarks or registered trademarks of Roku, Inc. ",
+            "boilerplate_noHappyStreaming":"© 2021 Roku, Inc. All rights reserved. Roku and the Roku logo are the trademarks or registered trademarks of Roku, Inc. ",
             "hdmi":"The terms HDMI and HDMI High-Definition Multimedia Interface, and the HDMI Logo are trademarks or registered trademarks of HDMI Licensing Administrator, Inc. in the United States and other countries.",
             "dolby":"Dolby, Dolby Vision, Dolby Atmos, and the double-D symbol are registered trademarks of Dolby Laboratories Licensing Corporation. Manufactured under license from Dolby Laboratories",
             "airplay":"Apple AirPlay is a trademark of Apple, Inc., registered in the U.S. and other countries. Apple AirPlay is compatible with select 4K Roku devices. Visit support.roku.com for more info.",
@@ -62,6 +63,7 @@
         },
         "es_ES":{
             "boilerplate":"© 2021 Roku, Inc. Todos los derechos reservados. Roku, el logotipo de Roku, y Happy Streaming son marcas comerciales o marcas comerciales registradas de Roku, Inc. ",
+            "boilerplate_noHappyStreaming":"© 2021 Roku, Inc. Todos los derechos reservados. Roku, y el logotipo de Roku, son marcas comerciales o marcas comerciales registradas de Roku, Inc. ",
             "hdmi":"Los términos HDMI, HDMI High-Definition Multimedia Interface y el logotipo de HDMI son marcas comerciales o marcas comerciales registradas de HDMI Licensing Administrator, Inc. en los Estados Unidos y otros países.",
             "dolby":"",
             "airplay":"Apple AirPlay es una marca comercial de Apple, Inc., registrada en los Estados Unidos y en otros países. Apple AirPlay es compatible con algunos dispositivos Roku 4K. Visita support.roku.com para obtener más información.",
@@ -69,6 +71,7 @@
         },
         "fr_CA":{
             "boilerplate":"© 2021 Roku, Inc. Tous droits réservés. Roku, le logo Roku, et Happy Streaming sont des marques de commerce ou des marques déposées de Roku, Inc. ",
+            "boilerplate_noHappyStreaming":"© 2021 Roku, Inc. Tous droits réservés. Roku, et le logo Roku sont des marques de commerce ou des marques déposées de Roku, Inc. ",
             "hdmi":"Les termes HDMI et HDMI High-Definition Multimedia Interface (interface multimédia haute définition) et le logo HDMI sont des marques de commerce ou des marques déposées de HDMI Licensing Administrator, Inc. aux États-Unis et dans d’autres pays.",
             "dolby":"",
             "airplay":"Apple AirPlay est une marque de commerce d’Apple inc., déposée aux États-Unis et dans d’autres pays. Apple AirPlay est compatible avec certains appareils Roku 4K. Visitez le site support.roku.com/fr-ca/ pour de plus amples renseignements.",
@@ -76,6 +79,7 @@
         },
         "de_DE":{
             "boilerplate":"© 2021 Roku, Inc. Alle Rechte vorbehalten. Roku, das Roku Logo, und Happy Streaming sind Marken oder eingetragene Marken von Roku, Inc. ",
+            "boilerplate_noHappyStreaming":"© 2021 Roku, Inc. Alle Rechte vorbehalten. Roku, und das Roku Logo sind Marken oder eingetragene Marken von Roku, Inc. ",
             "hdmi":"Die Begriffe HDMI und HDMI High-Definition Multimedia Interface, sowie das HDMI Logo, sind Marken oder eingetragene Marken von HDMI Licensing Administrator, Inc. in den USA und anderen Ländern",
             "dolby":"",
             "airplay":"",
@@ -83,6 +87,7 @@
         },
         "pt_BR":{
             "boilerplate":"© 2021 Roku, Inc. Todos os direitos reservados. Roku, o logotipo do Roku, e Happy Streaming são marcas comerciais ou marcas registradas da Roku, Inc. ",
+            "boilerplate_noHappyStreaming":"© 2021 Roku, Inc. Todos os direitos reservados. Roku, e o logotipo do Roku são marcas comerciais ou marcas registradas da Roku, Inc. ",
             "hdmi":"Os termos HDMI e HDMI High-Definition Multimedia Interface (interface multimídia de alta definição HDMI) e o logotipo HDMI são marcas comerciais ou marcas registradas da HDMI Licensing Administrator, Inc. nos Estados Unidos e em outros países.",
             "dolby":"",
             "airplay":"Apple AirPlay e HomeKit uma marca comercial da Apple Inc., registrada nos EUA e em outros países. Apple AirPlay e HomeKit são compatíveis com alguns dispositivos Roku 4K. Visite support.roku.com para obter mais informações.",
@@ -90,6 +95,7 @@
         },
         "en_GB":{
             "boilerplate":"© 2021 Roku, Inc. All rights reserved. Roku, the Roku logo, and Happy Streaming are the trademarks or registered trademarks of Roku, Inc. ",
+            "boilerplate_noHappyStreaming":"© 2021 Roku, Inc. All rights reserved. Roku and the Roku logo are the trademarks or registered trademarks of Roku, Inc. ",
             "hdmi":"The terms HDMI and HDMI High-Definition Multimedia Interface, and the HDMI Logo are trademarks or registered trademarks of HDMI Licensing Administrator, Inc. in the United States and other countries.",
             "dolby":"Dolby, Dolby Vision, Dolby Atmos, and the double-D symbol are registered trademarks of Dolby Laboratories Licensing Corporation. Manufactured under license from Dolby Laboratories",
             "airplay":"Apple AirPlay is a trademark of Apple, Inc., registered in the U.S. and other countries. Apple AirPlay is compatible with select 4K Roku devices. Visit support.roku.com for more info.",

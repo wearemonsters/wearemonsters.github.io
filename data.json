@@ -1,5 +1,5 @@
 {
-    "version":2.2,
+    "version":2.3,
     
     "locales": [
         {"locale":"en_US","description":"United States English", "friendly_name":"English (US)"},
